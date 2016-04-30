@@ -12,6 +12,7 @@ namespace FitToSizeClock
         public App()
         {
 
+            //Sets up FitToSizeClock Page
             MainPage = new FitToSizeClockPage();
 
         }
